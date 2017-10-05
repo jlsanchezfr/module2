@@ -1,0 +1,14 @@
+hellomodule.mobile:
+  label: Mobile
+  mediaQuery: ''
+  weight: 0
+
+hellomodule.standard:
+  label: Standard
+  mediaQuery: 'only screen and (min-width: 60em)'
+  weight: 1
+
+hellomodule.wide:
+  label: Wide
+  mediaQuery: 'only screen and (min-width: 70em)'
+  weight: 2

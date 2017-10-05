@@ -1,0 +1,7 @@
+usermodule.showUser:
+  path: '/usuario/{usuario}'
+  defaults:
+    _controller: '\Drupal\usermodule\Controller\UserController::showUser'
+    _title: 'Good Morning'
+  requirements:
+    _permission: 'access content'

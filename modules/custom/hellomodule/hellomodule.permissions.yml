@@ -1,0 +1,6 @@
+view hellomodule pages:
+  title: 'View the Hello module pages'
+  description:  'Allow users to view pages provided by  Hello Module'
+
+permission_callbacks:
+  - Drupal\filter\FilterPermissions::permissions

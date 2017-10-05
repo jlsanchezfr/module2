@@ -1,0 +1,4 @@
+name: 'Copyright Module'
+description: 'Custom module to provide'
+type: module
+core: 8.x

@@ -1,0 +1,2 @@
+route_callbacks:
+  - '\Drupal\hellomodule\Routing\CustomRoutes::routes'

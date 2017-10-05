@@ -1,0 +1,5 @@
+view contactmodule pages:
+  title: 'View the Contact Module pages'
+  description: 'Allow the users to view the pages provided by Contact Module'
+permission_callbacks:
+  - Drupal\filter\FilterPermissions::permissions

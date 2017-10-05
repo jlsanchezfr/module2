@@ -1,0 +1,5 @@
+name: 'Real Name Module'
+description: 'Custom module to show the field type'
+type: module
+core: 8.x
+version: 1.0

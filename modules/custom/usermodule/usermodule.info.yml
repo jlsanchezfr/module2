@@ -1,0 +1,4 @@
+name: User Module
+type: module
+description: This is a module to display a user account
+core: 8.x

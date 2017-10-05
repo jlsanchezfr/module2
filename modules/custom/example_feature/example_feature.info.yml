@@ -1,0 +1,15 @@
+name: 'Example Feature'
+description: 'This is an example of feature module'
+type: module
+core: 8.x
+dependencies:
+  - comment
+  - field
+  - image
+  - node
+  - path
+  - rdf
+  - text
+  - user
+  - views
+version: 8.x
